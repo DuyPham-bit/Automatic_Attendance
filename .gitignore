@@ -1,0 +1,15 @@
+# Build files & caches
+build/
+*.hex
+*.elf
+*.bin
+*.o
+*.d
+
+# OS & Editor files
+.vscode/
+.idea/
+*.swp
+*.bak
+.DS_Store
+Thumbs.db
